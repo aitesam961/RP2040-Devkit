@@ -18,7 +18,7 @@ More About RP2040 Could be found here: [RP2040](https://www.raspberrypi.com/docu
 #### Some Highlights about RP2040 Before we go Ahead
 
 <p align="center">
-  <img width="700" src="https://www.raspberrypi.com/documentation/microcontrollers/images/rp2040_explanation.svg" alt="Material Bread logo">
+  <img width="400" src="https://www.raspberrypi.com/documentation/microcontrollers/images/rp2040_explanation.svg" alt="Material Bread logo">
 </p>
 
 ## Features:
